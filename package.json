@@ -1,0 +1,16 @@
+{
+  "name": "contentment-kit",
+  "version": "1.0.0",
+  "description": "If you ever need a bit more contentment in your life",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "jaketrent",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^1.2.0",
+    "koa-static": "^2.0.0"
+  }
+}
